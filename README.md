@@ -1,5 +1,5 @@
 Blinking Freeform Soldering Sculpture
 
-![image](https://github.com/kvriet/Blinking-Freeform-Soldering-Sculpture/blob/main/lighthouse.png?raw=true)
+![Lighthouse](https://user-images.githubusercontent.com/47333175/205455961-05208de4-8ffc-49e5-a958-a7b3a0d9cdfc.jpg)
 
-![tree on](https://user-images.githubusercontent.com/47333175/202184601-1705b091-8cc8-4f67-9a9e-8f05bb791eed.JPG)
+![Tree](https://user-images.githubusercontent.com/47333175/205455968-c6b548a0-830e-4263-b33b-6c888e9548d3.jpg)
